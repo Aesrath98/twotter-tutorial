@@ -1,0 +1,43 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Mark_Lorens",
+            "firstname": "Mark",
+            "lastname": "Lorens",
+            "email": "marklorens0705@gmail.com",
+            "isAdmin": true,
+            "twoots": [
+                { "id": 1, "content": "Twotter is amazing!" },
+                { "id": 2, "content": "Definitely not twutter" }
+            ]
+        },
+        {
+            "id": 2,
+            "username": "_MitchellRomney",
+            "firstname": "Mitchell",
+            "lastname": "Romney",
+            "email": null,
+            "isAdmin": false,
+            "twoots": null
+        },
+        {
+            "id": 3,
+            "username": "JColeNC",
+            "firstname": "J.",
+            "lastname": "Cole",
+            "email": null,
+            "isAdmin": false,
+            "twoots": null
+        },
+        {
+            "id": 4,
+            "username": "kurtisconner",
+            "firstname": "Kurtis",
+            "lastname": "Conner",
+            "email": null,
+            "isAdmin": false,
+            "twoots": null
+        }
+    ]
+}
